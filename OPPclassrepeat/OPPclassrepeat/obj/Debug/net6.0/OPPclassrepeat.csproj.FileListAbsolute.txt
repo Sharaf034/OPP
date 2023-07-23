@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\bin\Debug\net6.0\OPPclassrepeat.exe
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\bin\Debug\net6.0\OPPclassrepeat.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\bin\Debug\net6.0\OPPclassrepeat.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\bin\Debug\net6.0\OPPclassrepeat.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\bin\Debug\net6.0\OPPclassrepeat.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\OPPclassrepeat.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\OPPclassrepeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\OPPclassrepeat.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\OPPclassrepeat.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\OPPclassrepeat.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\OPPclassrepeat.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\refint\OPPclassrepeat.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\OPPclassrepeat.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\OPPclassrepeat.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\OPPclassrepeat\OPPclassrepeat\obj\Debug\net6.0\ref\OPPclassrepeat.dll

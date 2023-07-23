@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\bin\Debug\net6.0\OPPhomework.exe
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\bin\Debug\net6.0\OPPhomework.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\bin\Debug\net6.0\OPPhomework.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\bin\Debug\net6.0\OPPhomework.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\bin\Debug\net6.0\OPPhomework.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\OPPhomework.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\OPPhomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\OPPhomework.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\OPPhomework.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\OPPhomework.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\OPPhomework.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\refint\OPPhomework.dll
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\OPPhomework.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\OPPhomework.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\Homework OPPclass\OPP\homework\OPPhomework\OPPhomework\obj\Debug\net6.0\ref\OPPhomework.dll
